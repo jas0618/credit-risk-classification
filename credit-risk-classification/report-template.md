@@ -5,8 +5,18 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
+# Answer: 
+    The purpose of this analysis to see which borrowers are more liekly to default on their payments using  
+    variables such as income, interest rate, how many accounts do they currently have and how much do they 
+    have debt based on their current income.The lending service objective to see which borrower has the 
+    best credit using these varaibles. To see if they were to lend out a laon would they be in a healthy 
+    position or is the borrower a high-risk. 
 * Explain what financial information the data was on, and what you needed to predict.
+   # Answer:
+      The financial information was on it was loan size, interest rate, borrower income, debt to income, number of accounts and total debt. The variables needed are the current interest rates, borroer income, debt to income ratios and total debt. 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
+  # Answer:
+    
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
