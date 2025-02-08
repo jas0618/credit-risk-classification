@@ -34,6 +34,8 @@ Recall: Assesses how many actual defaults were correctly identified.
 F1-score: Balances precision and recall, ensuring a well-rounded evaluation.
 These metrics help determine whether the model effectively identifies high-risk borrowers while minimizing misclassification.
 
+# Models Used in this Analysis: 
+
 Logistic Regression (LogisticRegression):
 
 Used as the primary classification algorithm to predict whether a borrower is likely to default on their loan.
