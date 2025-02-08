@@ -98,7 +98,6 @@ Neural networks are highly effective for large datasets, capturing complex relat
 Although Logistic Regression is a strong choice for simple binary classification tasks such as this one and works well with smaller datasets, it may struggle with non-linear patterns in borrower risk assessment.
 
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
-# Answer 
 Yes, the choice of the best model depends on the business objective.
 For loan default prediction, recall is typically more important, as missing a high-risk borrower could result in financial loss for lenders.
    
