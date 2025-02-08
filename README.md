@@ -1,12 +1,11 @@
 # credit-risk-classification Report 
 
  ## Analysis 
-* Explain the purpose of the analysis.
 The purpose of this analysis is to identify borrowers who are more likely to default on their payments by examining key variables such as income, interest rate, number of existing accounts, and debt relative to income. The goal of the lending service is to assess creditworthiness using these factors to determine whether a borrower is in a stable financial position or poses a high risk if granted a loan.
 The financial information included loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, and total debt. The key variables required for the analysis are current interest rates, borrower income, debt-to-income ratios, and total debt. The X_train, X_test, Y_train and Y_test using the logistic regression model. 
 
 
-* Describe the stages of the machine learning process you went through as part of this analysis.
+# Stages of Machine Learning
   
 1. Split the Data into Training and Testing Sets
 Use the train_test_split module to divide the dataset into training and testing sets.
